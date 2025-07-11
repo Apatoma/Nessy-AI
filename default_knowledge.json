@@ -1,0 +1,17 @@
+[
+  {
+    "topic": "Inteligencia Artificial",
+    "information": "La inteligencia artificial es el campo de estudio que busca crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.",
+    "source": "Fundamentos de IA, Russell & Norvig"
+  },
+  {
+    "topic": "Machine Learning",
+    "information": "El aprendizaje autom\u00e1tico es una rama de la IA que se centra en desarrollar algoritmos que permiten a las computadoras aprender de los datos.",
+    "source": "Pattern Recognition and Machine Learning, Bishop"
+  },
+  {
+    "topic": "Redes Neuronales",
+    "information": "Las redes neuronales artificiales son modelos computacionales inspirados en el cerebro humano que consisten en capas de nodos interconectados.",
+    "source": "Deep Learning, Goodfellow et al."
+  }
+]
